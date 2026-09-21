@@ -4,7 +4,7 @@
 
 Designed and modeled a Double Wishbone Suspension System using SOLIDWORKS, focusing on suspension geometry, load distribution, structural performance, and material optimization.
 
-![Complete Suspension System](images/complete-suspension.png)
+<img src="images/complete-suspension.png" alt="Complete Double Wishbone Suspension System" width="800"/>
 
 ---
 
@@ -44,7 +44,7 @@ The main components considered in the design include:
 - Wheel Hub
 - Supporting Components
 
-![CAD Design](images/cad-design.png)
+<img src="images/cad-design.png" alt="CAD Design" width="800"/>
 
 ---
 
@@ -71,18 +71,20 @@ The suspension system was analyzed under calculated loading conditions.
 
 The completed suspension assembly was imported into ANSYS for static structural analysis.
 
-The analysis evaluated:
+The analysis provided:
 
 - Total Deformation
 - Equivalent (Von Mises) Stress
 - Structural Behaviour under Static Loading
 - Material Performance
 
-![FEA Analysis](images/fea-analysis.png)
+<img src="images/fea-analysis.png" alt="FEA Analysis" width="800"/>
 
 ---
 
 ## 🧪 Material Selection
+
+Different materials were analyzed for the control arms and spring.
 
 ### Control Arm Materials
 
@@ -147,7 +149,7 @@ The complete suspension system was analyzed using the calculated forces:
 
 The final analysis was used to compare deformation and equivalent stress for different material combinations.
 
-![Final Results](images/final-results.png)
+<img src="images/final-results.png" alt="Final Analysis Results" width="800"/>
 
 ### Material Comparison
 
@@ -167,7 +169,7 @@ The final analysis was used to compare deformation and equivalent stress for dif
 - **Control Arms:** AISI 4130
 - **Spring:** 65Si7
 
-This material combination was identified in the project analysis as suitable for high-load conditions.
+The project analysis identified this material combination as suitable for high-load conditions.
 
 ---
 
@@ -186,9 +188,18 @@ This material combination was identified in the project analysis as suitable for
 
 ---
 
+## 📄 Project Presentation
+
+The complete project presentation is available in this repository.
+
+**Project Presentation:** `final ppt rev3.pptx`
+
+---
+
 ## 👨‍💻 Project Type
 
 Academic Project
 
-**Team Member:** Perarasu M  
+**Team Member:** Perarasu M
+
 **B.Tech Mechatronics Engineering**
