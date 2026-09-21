@@ -4,7 +4,7 @@
 
 Designed and modeled a Double Wishbone Suspension System using SOLIDWORKS, focusing on suspension geometry, load distribution, structural performance, and material optimization.
 
-<img src="images/complete-suspension.png" alt="Complete Double Wishbone Suspension System" width="800"/>
+<img src="images/complete-suspension.png" alt="Design and modelling of suspension system" width="800"/>
 
 ---
 
