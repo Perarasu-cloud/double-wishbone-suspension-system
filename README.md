@@ -190,9 +190,9 @@ The project analysis identified this combination as suitable for high-load condi
 
 ## 📄 Project Presentation
 
-The complete project presentation is available below.
+The complete project presentation is available here:
 
-📑 [View Project Presentation](Project-Presentation.pptx.pptx)
+[📑 View Project Presentation](./Project-Presentation.pptx.pptx)
 
 ---
 
@@ -203,4 +203,3 @@ Academic Project
 **Team Member:** Perarasu M
 
 **B.Tech Mechatronics Engineering**
-
