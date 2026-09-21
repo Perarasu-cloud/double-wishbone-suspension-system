@@ -190,9 +190,9 @@ The project analysis identified this combination as suitable for high-load condi
 
 ## 📄 Project Presentation
 
-The complete project presentation is available here:
+The complete project presentation is available below.
 
-[📑 View Project Presentation](./Project-Presentation.pptx.pptx)
+📑 [View Project Presentation](Project-Presentation.pptx.pptx)
 
 ---
 
