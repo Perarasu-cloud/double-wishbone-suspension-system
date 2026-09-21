@@ -4,7 +4,7 @@
 
 Designed and modeled a Double Wishbone Suspension System using SOLIDWORKS, focusing on suspension geometry, load distribution, structural performance, and material optimization.
 
-<img src="images/complete-suspension.png" alt="Complete Double Wishbone Suspension System" width="800"/>
+<img src="images/complete-suspension.png" alt="Complete Suspension System" width="800"/>
 
 ---
 
@@ -15,7 +15,7 @@ Designed and modeled a Double Wishbone Suspension System using SOLIDWORKS, focus
 - Evaluate structural performance under applied loading
 - Compare different materials for the control arms and spring
 - Reduce weight while maintaining strength and stiffness
-- Identify suitable material combinations for high-load conditions
+- Identify suitable materials for high-load conditions
 
 ---
 
@@ -33,9 +33,9 @@ Designed and modeled a Double Wishbone Suspension System using SOLIDWORKS, focus
 
 ## 🔧 3D CAD Design
 
-The complete double wishbone suspension system was designed and assembled using SOLIDWORKS.
+The complete suspension system was designed and assembled using SOLIDWORKS.
 
-The main components considered in the design include:
+The major components considered in the design include:
 
 - Upper Control Arm
 - Lower Control Arm
@@ -69,12 +69,12 @@ The suspension system was analyzed under calculated loading conditions.
 
 ## 🔬 FEA Analysis
 
-The completed suspension assembly was imported into ANSYS for static structural analysis.
+The suspension assembly was imported into ANSYS for static structural analysis.
 
-The analysis provided:
+The analysis focused on:
 
 - Total Deformation
-- Equivalent (Von Mises) Stress
+- Equivalent Von Mises Stress
 - Structural Behaviour under Static Loading
 - Material Performance
 
@@ -128,7 +128,7 @@ The analysis showed small deformation values under the applied loading condition
 
 ## 🌀 Spring Analysis
 
-The spring inside the shock absorber was analyzed using different spring materials.
+The spring was analyzed using different spring materials.
 
 Applied Force: **3435 N**
 
@@ -149,7 +149,7 @@ The complete suspension system was analyzed using the calculated forces:
 
 The final analysis was used to compare deformation and equivalent stress for different material combinations.
 
-<img src="images/final-results.png" alt="Final Analysis Results" width="800"/>
+<img src="images/final-results.png" alt="Final Results" width="800"/>
 
 ### Material Comparison
 
@@ -169,7 +169,7 @@ The final analysis was used to compare deformation and equivalent stress for dif
 - **Control Arms:** AISI 4130
 - **Spring:** 65Si7
 
-The project analysis identified this material combination as suitable for high-load conditions.
+The project analysis identified this combination as suitable for high-load conditions.
 
 ---
 
@@ -190,9 +190,9 @@ The project analysis identified this material combination as suitable for high-l
 
 ## 📄 Project Presentation
 
-The complete project presentation is available in this repository.
+The complete project presentation is available below.
 
-**Project Presentation:** `final ppt rev3.pptx`
+📑 [View Project Presentation](Project-Presentation.pptx)
 
 ---
 
