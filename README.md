@@ -4,7 +4,7 @@
 
 Designed and modeled a Double Wishbone Suspension System using SOLIDWORKS, focusing on suspension geometry, load distribution, structural performance, and material optimization.
 
-<img src="images/complete-suspension.png" alt="Complete Suspension System" width="800"/>
+<img src="complete-suspension.png.png" alt="Complete Suspension System" width="800"/>
 
 ---
 
@@ -44,7 +44,7 @@ The major components considered in the design include:
 - Wheel Hub
 - Supporting Components
 
-<img src="images/cad-design.png" alt="CAD Design" width="800"/>
+<img src="cad-design.png.png" alt="CAD Design" width="800"/>
 
 ---
 
@@ -78,7 +78,7 @@ The analysis focused on:
 - Structural Behaviour under Static Loading
 - Material Performance
 
-<img src="images/fea-analysis.png" alt="FEA Analysis" width="800"/>
+<img src="fea-analysis.png.jpeg" alt="FEA Analysis" width="800"/>
 
 ---
 
@@ -149,7 +149,7 @@ The complete suspension system was analyzed using the calculated forces:
 
 The final analysis was used to compare deformation and equivalent stress for different material combinations.
 
-<img src="images/final-results.png" alt="Final Results" width="800"/>
+<img src="final-results.png.png" alt="Final Results" width="800"/>
 
 ### Material Comparison
 
@@ -192,7 +192,7 @@ The project analysis identified this combination as suitable for high-load condi
 
 The complete project presentation is available below.
 
-📑 [View Project Presentation](Project-Presentation.pptx)
+📑 [View Project Presentation](Project-Presentation.pptx.pptx)
 
 ---
 
@@ -203,3 +203,4 @@ Academic Project
 **Team Member:** Perarasu M
 
 **B.Tech Mechatronics Engineering**
+
